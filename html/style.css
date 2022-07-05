@@ -1,0 +1,14 @@
+header nav ul {
+  display: inline-block;
+}
+li {
+  list-style: none;
+}
+footer p {
+  font-size: medium;
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+footer a:visited {
+  display: none;
+}
